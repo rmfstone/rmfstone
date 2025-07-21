@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://blog.akamsg.com/](https://blog.akamsg.com/)
 
-- 📫 How to reach me **stone@akamsg.com**
+- 📫 How to reach me **stone@akamsg.com** **contact@steineg.at**
 
 <p align="left">
 </p>
