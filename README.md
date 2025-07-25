@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
+<h1 align="center">Hi 👋, I'm stone</h1>
 <h3 align="center">A 16 year old developer from AT</h3>
 
 - 🔭 I’m currently working on [AKAMSG](https://www.akamsg.com/)
 
 - 🌱 I’m currently learning **Spring, Java, Javascript, React**
 
-- 📝 I regularly write articles on [https://blog.akamsg.com/](https://blog.akamsg.com/)
-
-- 📫 How to reach me **stone@akamsg.com** **contact@steineg.at**
+- 📫 How to reach me **contact@steineg.at** (**stone@akamsg.com**)
 
 <p align="left">
 </p>
