@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm stone</h1>
 <h3 align="center">A 16 year old developer from AT</h3>
 
-- 🔭 I’m currently working on [AKAMSG](https://www.akamsg.com/)
-
 - 🌱 I’m currently learning **Spring, Java, Javascript, React**
 
 - 📫 How to reach me **contact@steineg.at** (**stone@akamsg.com**)
